@@ -22,13 +22,11 @@
         <img height="280em" src="https://leetcard.jacoblin.cool/rohitkumary481?theme=dark&font=PT%20Serif&ext=contest">
       </a>
     </td>
-    <td align="right">
-      <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+    <td align="right" valign="top">
+      <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="200px">
     </td>
   </tr>
 </table>
-
----
 
 ### 📊 GitHub Stats
 
